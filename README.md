@@ -1,6 +1,6 @@
-# Book-store
+# Book-list
 
-Book store written with Django Rest Framework
+Book list REST API written with Django Rest Framework
 
 # Goal
 

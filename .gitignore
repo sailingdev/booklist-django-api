@@ -4,3 +4,4 @@ db.sqlite3
 # Cache Directory
 book-list/__pycache__
 book-list/migrations/__pycache__
+venv
